@@ -1,0 +1,49 @@
+.section-content {background-color: cornflowerblue;
+    color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;}
+
+.section-content>h3 { margin: 0;}
+
+.title {    text-align: center;
+    margin: 0px;}
+
+.subtitle {     text-align: center;
+    margin: 4px;}
+
+#Switch-keliling {padding-top: 12px;
+    padding-bottom: 32px;
+    width: 100%;
+    background-color: white;
+    border: 0px;
+    color: blue;}
+
+.rumus-img { text-align: center;}
+
+input { width: 100%;
+    background-color: lightskyblue;
+    border: 1px solid darkcyan;
+    border-radius: 6px;
+    padding: 4px;
+    font-family: math;}
+    
+img {height: 125px;}
+
+form>section>button {
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid darkcyan;
+    background-color: lightskyblue;
+    width: 5%;
+}
+
+#reset-button { background-color: cornflowerblue;}
+
+.button-2 { padding: 12px;
+    border-radius: 10px;
+    border: 1px solid darkcyan;
+    background-color: lightskyblue;
+    width: 5%; }
+
+#reset-2 { background-color: cornflowerblue;}
